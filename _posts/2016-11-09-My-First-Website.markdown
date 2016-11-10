@@ -6,4 +6,4 @@ categories: New
 ---
 
 So today I dicided to make my first website and this is so far ok.. I had some Issues but its true
-<img src="https://i.ytimg.com/vi/zecueq-mo4M/maxresdefault.jpg"></img>
+<img src="https://i.ytimg.com/vi/zecueq-mo4M/maxresdefault.jpg">
